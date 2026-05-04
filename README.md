@@ -42,6 +42,7 @@ Since `XYZ = 866` and `866 mod 4 = 2`, the number of layers was fixed at 7 and t
 
 ```text
 2, 3, 5, 7
+```
 
 The best validation loss at iteration 5000 was achieved by the 2-head model.
 
